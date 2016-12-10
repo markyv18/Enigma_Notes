@@ -1,0 +1,14 @@
+class KeyGenerator
+  # do we need to use the rand method to generate the 5 digit key?
+  # def key(digits)
+  # rand for the 39 characters
+  # digits = rand 5?
+  # rotation_a = key[0,1]
+  # rotation_b = key[1,2]
+  # rotation_c = key[2,3]
+  # rotation_d = key[3,4]
+  # use enumeration to generate outcomes for each?
+  # a method for each rotation?
+
+
+end
